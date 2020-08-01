@@ -1,0 +1,54 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "FlintR",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_r"
+    },
+    {
+      "name": "SandR",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sand_r"
+    },
+    {
+      "name": "LeatherR",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_r"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "uncle_raftabix",
+    "modName": "Uncle Raftabix",
+    "version": "1.0.0",
+    "author": "Jack, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.16.x",
+    "modElementsPackage": "net.mcreator.uncleraftabix",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000430417
+}
